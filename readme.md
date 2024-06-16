@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, myself Samarjeet Mohite</h1>
-<h3 align="center">A Full Stack Blockchain Developer </h3>
+<h1 align="center">Hi 👋, myself Priyanshu</h1>
+<h3 align="center">A Full Stack Developer and a DSA Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smr0303&label=Profile%20views&color=0e75b6&style=flat" alt="smr0303" /> </p>
 
@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🌱Currently focusing on blockchain technology and how it's vast application can shape the future<br><br>👯 Desirous of Blockchain intern positions to utilize technical knowledge and build on skills <br><br>🎅 I’m also focusing on Data structures and algorithms to enhance my probelm solving skills <br><br>📫 Reach me at samarmohite7@gmail.com
+🌱Currently focusing on MERN stack and blockchain technology and how it's vast application can shape the future<br><br>👯 Desirous of Blockchain intern positions to utilize technical knowledge and build on skills <br><br>🎅 I’m also focusing on Data structures and algorithms to enhance my probelm solving skills <br><br>📫 Reach me at pkumar.kumaryt@gmail.com
 
 
 # 💻 Tech Stack:
