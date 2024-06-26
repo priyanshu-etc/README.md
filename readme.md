@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🌱Currently focusing on MERN stack and blockchain technology and how it's vast application can shape the future<br><br>👯 Build UI/UX designs and enhance the interfaces of web applications <br><br>🎅 I’m also focusing on Data structures and algorithms to enhance my problem-solving skills <br><br>📫 Reach me at pkumar.kumaryt@gmail.com
+🌱Currently focusing on MERN stack and Blockchain technology and how it's vast application can shape the future<br><br>👯 Build UI/UX designs and enhance the interfaces of web applications <br><br>🎅 I’m also focusing on Data structures and algorithms to enhance my problem-solving skills <br><br>📫 Reach me at pkumar.kumaryt@gmail.com
 
 
 # 💻 Tech Stack:
